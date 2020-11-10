@@ -1,3 +1,7 @@
+## Include some other HTML
+
+{% include plotly-test.html %}
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kerchner/testsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
