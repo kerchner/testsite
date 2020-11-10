@@ -2,7 +2,7 @@
 
 ## Include some other HTML
 
-{% include plotly-test.html %}
+{% include test.html %}
 
 ## Welcome to GitHub Pages
 
